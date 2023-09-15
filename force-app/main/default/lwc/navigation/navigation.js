@@ -41,8 +41,8 @@ export default class Navigation extends NavigationMixin(LightningElement) {
         this[NavigationMixin.Navigate]({
             type: 'standard__recordPage',
             attributes: {
-                recordId: "a001025j00000b635cAAA",
-                objectApiName: 'Merchandise__c',
+                recordId: "0015j0000179c26AAA",
+                objectApiName: 'Account',
                 actionName: 'view'
             }
         });
